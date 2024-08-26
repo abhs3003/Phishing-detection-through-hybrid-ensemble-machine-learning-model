@@ -1,0 +1,4 @@
+{
+    "name": "my-awesome-project/awesome-package",
+    "require": {"guzzlehttp/guzzle": "^7.0"}
+}
